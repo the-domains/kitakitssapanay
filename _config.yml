@@ -1,3 +1,7 @@
+name: Kitakitssapanay
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.1380606
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.1380606
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2180451
-  brandStrength: 0.6177945
-  rhythmicContrast: 0.2938597
   brandColors:
     - '#FCFBFF'
     - '#30392F'
     - '#656542'
     - '#657689'
     - '#909A66'
+  brandStrength: 0.5
   lightness: 0.7775689
-layout_spectrum: 0
-name: Kitakitssapanay
+  saturation: 0.2180451
+  rhythmicContrast: 0.2938597
+purpose: []
