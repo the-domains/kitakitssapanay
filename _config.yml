@@ -28,6 +28,9 @@ navigation:
   - id: af9310f2-771e-4649-b2e4-644363fb94f5
     name: Artificial reef
     type: content
+  - id: a747ad5f-1f74-4db2-a106-ec729a92d0c7
+    name: Laatste week Antique
+    type: content
 favicon: null
 collections:
   - index:
