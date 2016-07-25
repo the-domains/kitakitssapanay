@@ -1,7 +1,34 @@
-name: Kitakitssapanay
-favicon: null
-layout_spectrum: 0.26581
 typography_spectrum: 0.1380606
+color:
+  brandColors:
+    - '#FCFBFF'
+    - '#30392F'
+    - '#656542'
+    - '#657689'
+    - '#909A66'
+  brandStrength: 0.5
+  lightness: 0.7775689
+  saturation: 0.2180451
+  rhythmicContrast: 0.2938597
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.26581
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Kitakitssapanay
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: af9310f2-771e-4649-b2e4-644363fb94f5
+    name: Artificial reef
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +42,4 @@ collections:
       format: rss
       number: 10
 title: Blog of Marielle en Gertjan
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#FCFBFF'
-    - '#30392F'
-    - '#656542'
-    - '#657689'
-    - '#909A66'
-  brandStrength: 0.5
-  lightness: 0.7775689
-  saturation: 0.2180451
-  rhythmicContrast: 0.2938597
 purpose: []
